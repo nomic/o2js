@@ -1,0 +1,24 @@
+{
+  "name": "o2js",
+  "version": "0.0.1",
+  "description": "A simple way to represent, render, and manipulate DOM in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "./bin/run-unit-tests"
+  },
+  "author": "Gabriel Silk <gabesilk@gmail.com>",
+  "contributors": [
+    {
+      "name": "Aaron Boyd",
+      "email": "aaron@nomic.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
